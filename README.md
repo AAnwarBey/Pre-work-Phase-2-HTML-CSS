@@ -1,2 +1,2 @@
-# pre-work-phase-2-HTML-CSS
+# pre-work-phase-2-html-css
 Phase 2 of bootcamp prework
